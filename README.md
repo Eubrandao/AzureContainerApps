@@ -22,6 +22,9 @@ Antes de executar o projeto, é necessário configurar as credenciais do Azure S
 # Arquitetura
 ![image](https://github.com/Eubrandao/AzureContainerApps/assets/55800764/c6306b44-fe4d-4429-a58a-2577398dd9a1)
 
+# Escalabilidade
+Para escalar nossos contêineres , iremos utilizar o Keda, um componente do kubernetes baseado em eventos.
+Nossa missão será simples: Iremos definir um limite de fila para armazenar pedidos e assim que esse limite for atingido, o Keda irá escalar mais quotas para que os pedidos sejam processados.
 
 # Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para criar pull requests ou abrir issues no repositório.

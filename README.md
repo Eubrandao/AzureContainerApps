@@ -29,7 +29,7 @@ Nossa missão será simples: Iremos definir um limite de fila para armazenar ped
 # Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para criar pull requests ou abrir issues no repositório.
 
-
+First Code in https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white  🤘
 
 
 

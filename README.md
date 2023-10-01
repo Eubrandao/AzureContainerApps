@@ -20,7 +20,8 @@ Antes de executar o projeto, é necessário configurar as credenciais do Azure S
 
 
 # Arquitetura
-![image](https://github.com/Eubrandao/AzureContainerApps/assets/55800764/c6306b44-fe4d-4429-a58a-2577398dd9a1)
+![image](https://github.com/Eubrandao/AzureContainerApps/assets/55800764/911161b2-ce3b-4677-8631-264defcefee4)
+
 
 # Escalabilidade
 Para escalar nossos contêineres , iremos utilizar o Keda, um componente do kubernetes baseado em eventos.

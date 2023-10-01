@@ -16,7 +16,7 @@ O ProdutoService oferece um endpoint api/purchases para criar compras de produto
 O PedidoService busca pedidos na fila do Azure Storage Queue e os processa em segundo plano. Isso permite que os pedidos sejam processados de forma assíncrona, garantindo escalabilidade e desempenho.
 
 ### Configuração
-Antes de executar o projeto, é necessário configurar as credenciais do Azure Storage e outras configurações necessárias. Certifique-se de definir corretamente a string de conexão do Azure Storage no código do ProdutoService e do PedidoService.
+Antes de executar o projeto, é necessário configurar as credenciais do Azure Storage e outras configurações necessárias. Certifique-se de definir corretamente a string de conexão do Azure Storage no código do ProdutoService.
 
 
 # Arquitetura

@@ -20,7 +20,7 @@ Antes de executar o projeto, é necessário configurar as credenciais do Azure S
 
 
 # Arquitetura
-![image](https://github.com/Eubrandao/AzureContainerApps/assets/55800764/911161b2-ce3b-4677-8631-264defcefee4)
+[![image](https://github.com/Eubrandao/AzureContainerApps/assets/55800764/911161b2-ce3b-4677-8631-264defcefee4)](https://github.com/Eubrandao/AzureContainerApps/settings)
 
 
 # Escalabilidade
